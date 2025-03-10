@@ -22,5 +22,5 @@ The business objective is to predict the churn in the last (i.e. the ninth) mont
 8. roam_og_mou_8 variables have positive coefficients (0.7135). That means for the customers, whose roaming outgoing minutes of usage is increasing are more likely to churn.
 
 ## File Details:
-1. Telecom Churn Case Study.ipynb : Python file containing codes for the telecom 
+1. Telecom Churn Case Study.ipynb : Python file containing codes for the telecom churn data case study and recomendations
 2. Telecom_Churn_Group_Case_Study_Presentation.pdf : Presentation file 
